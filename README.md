@@ -12,6 +12,8 @@
 9. Clone the repository using the link above (in Eclipse, File > Import > MercurialEclipse > Clone Existing Mercurial Repository)
 
 ## Organization
+![alt text](https://github.com/rsud79/CircinusOrganization/blob/master/src/common/images/GitLayeredCake.png "Layered Cake Organization")
+
 
 ## Technical APIs
 
