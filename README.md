@@ -16,6 +16,12 @@
 
 
 ## Technical APIs
+* Jsch - Terminal connection
+* jq - JSON Query
+* jdbc - DB connectivity
+* Cucumber - Acceptance test expression
+* JUnit - Assertions
+* REST-assured - Services
 
 ## Execution
 
