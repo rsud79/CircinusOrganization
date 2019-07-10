@@ -1,6 +1,6 @@
 # CircinusOrganization
 
-Setup
+## Setup
 1. Install the latest JDK (not just the JRE)
 2. Confirm install by CMD > java -version
 3. Install Eclipse for Java Developers. You can use NetBeans as well. 
@@ -10,3 +10,13 @@ Setup
    * Mercurial: https://bitbucket.org/mercurialeclipse/update-site/raw/default/
    * Cucumber: http://cucumber.github.io/cucumber-eclipse/update-site/
 9. Clone the repository using the link above (in Eclipse, File > Import > MercurialEclipse > Clone Existing Mercurial Repository)
+
+## Organization
+
+## Technical APIs
+
+## Execution
+
+## Reporting
+
+## Contributing
