@@ -22,6 +22,7 @@
 * Cucumber - Acceptance test expression
 * JUnit - Assertions
 * REST-assured - Services
+* Selenium - Browser
 
 ## Execution
 
